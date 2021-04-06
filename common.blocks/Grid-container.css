@@ -1,0 +1,4 @@
+.Grid-container {
+    display: grid;
+    grid-template: auto 500px auto / 57.5% 8% 1fr;
+}

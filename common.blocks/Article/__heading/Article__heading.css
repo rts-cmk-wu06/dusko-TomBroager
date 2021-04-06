@@ -1,0 +1,5 @@
+.Article__heading {
+    position: relative;
+    top: 90px;
+    z-index: 20;
+}

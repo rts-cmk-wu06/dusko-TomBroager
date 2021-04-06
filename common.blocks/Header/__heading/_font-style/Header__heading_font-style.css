@@ -1,0 +1,7 @@
+.Header__heading_font-style {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0, 0.3);
+    color: white;
+}

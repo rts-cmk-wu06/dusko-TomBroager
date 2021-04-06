@@ -1,0 +1,21 @@
+html {
+    background-color: rgb(224, 224, 224);
+}
+
+body {
+    width: 1024px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 10px;
+}
+h1, h2, h3 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+figure {
+    margin: 0%;
+}
